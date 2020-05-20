@@ -26,7 +26,7 @@ add new project in
 
 then you will see
 
-
+```
 polls/
     __init__.py
     admin.py
@@ -37,7 +37,7 @@ polls/
     tests.py
     views.py
 
-
+```
 
 
 
